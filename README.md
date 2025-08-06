@@ -49,8 +49,7 @@ Clearly define the business questions:
 ## 📤 Step 5: Share
 
 - This README summarizes the project and key findings
-- Results can be presented visually through dashboards or reports
-- Suitable for inclusion in a professional portfolio or GitHub repository
+
 
 ---
 
